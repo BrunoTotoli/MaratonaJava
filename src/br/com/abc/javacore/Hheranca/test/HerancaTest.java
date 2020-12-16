@@ -2,7 +2,6 @@ package br.com.abc.javacore.Hheranca.test;
 
 import br.com.abc.javacore.Hheranca.classes.Endereco;
 import br.com.abc.javacore.Hheranca.classes.Funcionario;
-import br.com.abc.javacore.Hheranca.classes.Pessoa;
 
 public class HerancaTest {
 	public static void main(String[] args) {

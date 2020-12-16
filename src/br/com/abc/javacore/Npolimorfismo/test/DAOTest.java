@@ -1,10 +1,10 @@
 package br.com.abc.javacore.Npolimorfismo.test;
 
-import java.util.LinkedList;
-import java.util.List;
-
 import br.com.abc.javacore.Npolimorfismo.classes.ArquivoDAOImpl;
 import br.com.abc.javacore.Npolimorfismo.classes.GenericDAO;
+
+import java.util.LinkedList;
+import java.util.List;
 
 public class DAOTest {
 	public static void main(String[] args) {

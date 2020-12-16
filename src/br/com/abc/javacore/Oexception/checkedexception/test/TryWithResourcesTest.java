@@ -1,13 +1,9 @@
 package br.com.abc.javacore.Oexception.checkedexception.test;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.Reader;
-
 import br.com.abc.javacore.Oexception.checkedexception.classes.Leitor1;
 import br.com.abc.javacore.Oexception.checkedexception.classes.Leitor2;
+
+import java.io.*;
 
 public class TryWithResourcesTest {
 	public static void main(String[] args) {
