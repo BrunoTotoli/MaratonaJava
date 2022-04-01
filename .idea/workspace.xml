@@ -35,8 +35,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.ConsoleTest">
+  <component name="RunManager" selected="Application.CriandoPathTest">
     <configuration name="BufferedTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.Vio.test.BufferedTest" />
       <module name="JavaDevDojo" />
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Vio.test.BufferedTest" />
+    <configuration name="ConsoleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Vio.test.ConsoleTest" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsoleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Vio.test.ConsoleTest" />
+    <configuration name="CriandoPathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.CriandoPathTest" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Vio.test.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CriandoPathTest" />
         <item itemvalue="Application.ConsoleTest" />
         <item itemvalue="Application.FileDiretorioTest" />
         <item itemvalue="Application.BufferedTest (1)" />
         <item itemvalue="Application.FileWriterReaderTest (1)" />
-        <item itemvalue="Application.BufferedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +151,7 @@
       <workItem from="1648709944974" duration="59000" />
       <workItem from="1648710069589" duration="851000" />
       <workItem from="1648715351154" duration="805000" />
-      <workItem from="1648779794031" duration="2362000" />
+      <workItem from="1648779794031" duration="8045000" />
     </task>
     <servers />
   </component>
