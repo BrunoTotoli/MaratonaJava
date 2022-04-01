@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de6c94ef-9629-48d1-8722-a8a028a0a674" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/Vio/test/BufferedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/Vio/test/BufferedTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +36,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.BufferedTest">
-    <configuration name="BufferedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.BufferedTest (1)">
+    <configuration name="BufferedTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.Vio.test.BufferedTest" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
@@ -51,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.Vio.test.FileTest" />
+    <configuration name="BufferedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.test.BufferedTest" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.Vio.test.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,7 +63,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriterReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.test.FileTest" />
+      <module name="JavaDevDojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.abc.javacore.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWriterReaderTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.Vio.test.FileWriterReaderTest" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
@@ -77,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResourceBundleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Uresourcebundle.ResourceBundleTest" />
+    <configuration name="FileWriterReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.test.FileWriterReaderTest" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Uresourcebundle.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,10 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferedTest (1)" />
+        <item itemvalue="Application.FileWriterReaderTest (1)" />
         <item itemvalue="Application.BufferedTest" />
         <item itemvalue="Application.FileWriterReaderTest" />
         <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.ResourceBundleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -108,6 +121,10 @@
       <option name="presentableId" value="Default" />
       <updated>1648629397610</updated>
       <workItem from="1648629398824" duration="3730000" />
+      <workItem from="1648709944974" duration="59000" />
+      <workItem from="1648710069589" duration="851000" />
+      <workItem from="1648715351154" duration="805000" />
+      <workItem from="1648779794031" duration="313000" />
     </task>
     <servers />
   </component>

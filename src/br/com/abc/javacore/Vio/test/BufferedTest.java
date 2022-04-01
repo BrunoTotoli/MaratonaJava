@@ -1,4 +1,4 @@
-package br.com.abc.Vio.test;
+package br.com.abc.javacore.Vio.test;
 
 import java.io.*;
 
