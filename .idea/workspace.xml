@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de6c94ef-9629-48d1-8722-a8a028a0a674" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/NormalizacaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/NormalizacaoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +37,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.NormalizacaoTest">
-    <configuration name="BufferedTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.Vio.test.BufferedTest" />
-      <module name="JavaDevDojo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.abc.Vio.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ResolvendoPaths">
     <configuration name="ConsoleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Vio.test.ConsoleTest" />
       <module name="JavaDevDojo" />
@@ -104,13 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ResolvendoPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.ResolvendoPaths" />
+      <module name="JavaDevDojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ResolvendoPaths" />
         <item itemvalue="Application.NormalizacaoTest" />
         <item itemvalue="Application.CriandoPathTest" />
         <item itemvalue="Application.ConsoleTest" />
         <item itemvalue="Application.FileDiretorioTest" />
-        <item itemvalue="Application.BufferedTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +126,8 @@
       <workItem from="1648710069589" duration="851000" />
       <workItem from="1648715351154" duration="805000" />
       <workItem from="1648779794031" duration="8045000" />
-      <workItem from="1648838239545" duration="1871000" />
+      <workItem from="1648838239545" duration="3072000" />
+      <workItem from="1648862390414" duration="1046000" />
     </task>
     <servers />
   </component>
