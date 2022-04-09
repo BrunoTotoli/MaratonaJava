@@ -37,13 +37,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.RelativizarTest">
-    <configuration name="ConsoleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Vio.test.ConsoleTest" />
+  <component name="RunManager" selected="Application.BasicFileAttributesTest02">
+    <configuration name="BasicFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.BasicFileAttributesTest01" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Vio.test.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CriandoPathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.CriandoPathTest" />
+    <configuration name="BasicFileAttributesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.BasicFileAttributesTest02" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicFileAttributesTest02" />
+        <item itemvalue="Application.BasicFileAttributesTest01" />
         <item itemvalue="Application.RelativizarTest" />
         <item itemvalue="Application.ResolvendoPaths" />
         <item itemvalue="Application.NormalizacaoTest" />
-        <item itemvalue="Application.CriandoPathTest" />
-        <item itemvalue="Application.ConsoleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +127,9 @@
       <workItem from="1648715351154" duration="805000" />
       <workItem from="1648779794031" duration="8045000" />
       <workItem from="1648838239545" duration="3072000" />
-      <workItem from="1648862390414" duration="1377000" />
+      <workItem from="1648862390414" duration="2046000" />
+      <workItem from="1649484362145" duration="698000" />
+      <workItem from="1649485377977" duration="2032000" />
     </task>
     <servers />
   </component>
