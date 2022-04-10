@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="de6c94ef-9629-48d1-8722-a8a028a0a674" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/folder2/arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/folder2/arquivo_renomeado.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Mintefarces/classes/Transportavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Mintefarces/classes/Transportavel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Mintefarces/classes/Transportavel.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/BasicFileAttributesTest01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/BasicFileAttributesTest02.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pasta/subpasta/new.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/DosFileAttributesTest01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/CriandoPathTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,7 +49,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.BasicFileAttributesTest02">
+  <component name="RunManager" selected="Application.DosFileAttributesTest01">
     <configuration name="BasicFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.BasicFileAttributesTest01" />
       <module name="JavaDevDojo" />
@@ -64,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalizacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.NormalizacaoTest" />
+    <configuration name="DosFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.DosFileAttributesTest01" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DosFileAttributesTest01" />
         <item itemvalue="Application.BasicFileAttributesTest02" />
         <item itemvalue="Application.BasicFileAttributesTest01" />
         <item itemvalue="Application.RelativizarTest" />
         <item itemvalue="Application.ResolvendoPaths" />
-        <item itemvalue="Application.NormalizacaoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +141,9 @@
       <workItem from="1648838239545" duration="3072000" />
       <workItem from="1648862390414" duration="2046000" />
       <workItem from="1649484362145" duration="698000" />
-      <workItem from="1649485377977" duration="2032000" />
+      <workItem from="1649485377977" duration="2501000" />
+      <workItem from="1649499470583" duration="2201000" />
+      <workItem from="1649595904755" duration="2118000" />
     </task>
     <servers />
   </component>
