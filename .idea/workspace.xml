@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de6c94ef-9629-48d1-8722-a8a028a0a674" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/folder2/arquivo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/folder2/arquivo_renomeado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/arquivo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Mintefarces/classes/Transportavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Mintefarces/classes/Transportavel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.DosFileAttributesTest01">
+  <component name="RunManager" selected="Application.DirectoryStreamTest01">
     <configuration name="BasicFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.BasicFileAttributesTest01" />
       <module name="JavaDevDojo" />
@@ -65,6 +61,19 @@
     </configuration>
     <configuration name="BasicFileAttributesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.BasicFileAttributesTest02" />
+      <module name="JavaDevDojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectoryStreamTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.DirectoryStreamTest01" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
@@ -102,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResolvendoPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.ResolvendoPaths" />
-      <module name="JavaDevDojo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DirectoryStreamTest01" />
         <item itemvalue="Application.DosFileAttributesTest01" />
         <item itemvalue="Application.BasicFileAttributesTest02" />
         <item itemvalue="Application.BasicFileAttributesTest01" />
         <item itemvalue="Application.RelativizarTest" />
-        <item itemvalue="Application.ResolvendoPaths" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +139,9 @@
       <workItem from="1649484362145" duration="698000" />
       <workItem from="1649485377977" duration="2501000" />
       <workItem from="1649499470583" duration="2201000" />
-      <workItem from="1649595904755" duration="2118000" />
+      <workItem from="1649595904755" duration="5161000" />
+      <workItem from="1649638010681" duration="680000" />
+      <workItem from="1649708285969" duration="517000" />
     </task>
     <servers />
   </component>
