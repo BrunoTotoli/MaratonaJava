@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de6c94ef-9629-48d1-8722-a8a028a0a674" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/SimpleFileVisitorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/SimpleFileVisitorTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,20 +56,7 @@
       <recent name="C:\Users\Bruno\IdeaProjects\MaratonaJava\src\br\com\abc\javacore\Wnio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleFileVisitorTest02">
-    <configuration name="BasicFileAttributesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.BasicFileAttributesTest02" />
-      <module name="JavaDevDojo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PathMatcherTest02">
     <configuration name="DirectoryStreamTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.DirectoryStreamTest01" />
       <module name="JavaDevDojo" />
@@ -84,8 +70,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DosFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.DosFileAttributesTest01" />
+    <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.PathMatcherTest01" />
+      <module name="JavaDevDojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathMatcherTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.PathMatcherTest02" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathMatcherTest02" />
+        <item itemvalue="Application.PathMatcherTest01" />
         <item itemvalue="Application.SimpleFileVisitorTest02" />
         <item itemvalue="Application.SimpleFileVisitorTest01" />
         <item itemvalue="Application.DirectoryStreamTest01" />
-        <item itemvalue="Application.DosFileAttributesTest01" />
-        <item itemvalue="Application.BasicFileAttributesTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +152,7 @@
       <workItem from="1649499470583" duration="2201000" />
       <workItem from="1649595904755" duration="5161000" />
       <workItem from="1649638010681" duration="680000" />
-      <workItem from="1649708285969" duration="2825000" />
+      <workItem from="1649708285969" duration="5092000" />
     </task>
     <servers />
   </component>
