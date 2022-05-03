@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de6c94ef-9629-48d1-8722-a8a028a0a674" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/subpasta/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pasta/subpasta/new.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/subpasta/novo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pasta/subpasta/novo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta/subpasta/new.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta/subpasta/novo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta/teste.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +23,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Mintefarces/classes/Transportavel.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/BasicFileAttributesTest01.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/BasicFileAttributesTest02.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/pasta/subpasta/new.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/ResolvendoPaths.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Xserializacao/test/SerializacaoTest01.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/DosFileAttributesTest01.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/CriandoPathTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Xserializacao/dominio/Aluno.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/PosixFileAttributesTest01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/SimpleFileVisitorTest02.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/br/com/abc/javacore/Wnio/ZipOutputStreamTest01.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -58,7 +73,7 @@
       <recent name="C:\Users\Bruno\IdeaProjects\MaratonaJava\src\br\com\abc\javacore\Wnio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZipOutputStreamTest01">
+  <component name="RunManager" selected="Application.SerializacaoTest01">
     <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.PathMatcherTest01" />
       <module name="JavaDevDojo" />
@@ -85,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFileVisitorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.SimpleFileVisitorTest01" />
+    <configuration name="PosixFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.PosixFileAttributesTest01" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFileVisitorTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.SimpleFileVisitorTest02" />
+    <configuration name="SerializacaoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Xserializacao.test.SerializacaoTest01" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.Xserializacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializacaoTest01" />
+        <item itemvalue="Application.PosixFileAttributesTest01" />
         <item itemvalue="Application.ZipOutputStreamTest01" />
         <item itemvalue="Application.PathMatcherTest02" />
         <item itemvalue="Application.PathMatcherTest01" />
-        <item itemvalue="Application.SimpleFileVisitorTest02" />
-        <item itemvalue="Application.SimpleFileVisitorTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +169,10 @@
       <workItem from="1649499470583" duration="2201000" />
       <workItem from="1649595904755" duration="5161000" />
       <workItem from="1649638010681" duration="680000" />
-      <workItem from="1649708285969" duration="8546000" />
+      <workItem from="1649708285969" duration="9844000" />
+      <workItem from="1649822352548" duration="241000" />
+      <workItem from="1651520057935" duration="4884000" />
+      <workItem from="1651561013732" duration="1427000" />
     </task>
     <servers />
   </component>
