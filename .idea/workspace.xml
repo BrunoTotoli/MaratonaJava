@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de6c94ef-9629-48d1-8722-a8a028a0a674" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/subpasta/new.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/subpasta/novo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/teste.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +69,13 @@
       <recent name="C:\Users\Bruno\IdeaProjects\MaratonaJava\src\br\com\abc\javacore\Wnio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SerializacaoTest01">
-    <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Wnio.PathMatcherTest01" />
+  <component name="RunManager" selected="Application.EqualsTest01">
+    <configuration name="EqualsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.abc.javacore.Ycolecoes.test.EqualsTest01" />
       <module name="JavaDevDojo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.abc.javacore.Wnio.*" />
+          <option name="PATTERN" value="br.com.abc.javacore.Ycolecoes.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsTest01" />
         <item itemvalue="Application.SerializacaoTest01" />
         <item itemvalue="Application.PosixFileAttributesTest01" />
         <item itemvalue="Application.ZipOutputStreamTest01" />
         <item itemvalue="Application.PathMatcherTest02" />
-        <item itemvalue="Application.PathMatcherTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +168,7 @@
       <workItem from="1649708285969" duration="9844000" />
       <workItem from="1649822352548" duration="241000" />
       <workItem from="1651520057935" duration="4884000" />
-      <workItem from="1651561013732" duration="1427000" />
+      <workItem from="1651561013732" duration="4358000" />
     </task>
     <servers />
   </component>
